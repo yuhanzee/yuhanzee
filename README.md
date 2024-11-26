@@ -2,7 +2,8 @@
 <h3 align="center">Passionate IT Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yuhanzee&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanzee" /> </p>
-<img align="center" alt="Coding" width="300" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)">
+<img align="center" alt="Coding" width="300" src="![Uploading programming.gif…]()
+">
 
 ---
 - 🌱 I’m currently learning **java**
