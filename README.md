@@ -17,7 +17,6 @@
 - 🌱 Currently learning **UI/UX and UCD (User-Centered Design) principles**  
 - 🧠 Interested in **mobile app design, interaction design & product thinking**
 - 💬 Ask me about **UI/UX or design tools**
-- 📫 Reach me at **yuhansidinethma@gmail.com**
 
 ---
 
@@ -27,7 +26,13 @@
   <a href="https://www.linkedin.com/in/yuhansi-pathiraja-22b90127a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <a href="mailto:yuhansidinethma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+---
 
 ## 🛠️ Languages & Tools
 
