@@ -1,38 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yuhansi Dinethma</h1>
-<h3 align="center">UI/UX Design Enthusiast | Aspiring Product Creator</h3>
+<div align="center">
+
+# Hi there 👋, I'm Yuhansi Dinethma
+
+### UI/UX Designer | Aspiring Product Creator
+
+<img src="https://komarev.com/ghpvc/?username=yuhanzee&label=Profile%20Views&color=8A2BE2&style=flat" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Designing%20Clean%20Digital%20Experiences&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+## 👩‍💻 About Me
+
+- 🎨 Passionate about **UI/UX Design** and clean visual experiences  
+- 🌱 Currently learning **User-Centered Design**, wireframing, and prototyping  
+- 📱 Interested in **mobile app design**, interaction design, and product thinking  
+- 🚀 Exploring tools, trends, and ideas to grow as a designer  
+- 📍 Based in **Sri Lanka**
+
+---
+
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuhanzee&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanzee" />
-</p>
-
-<p align="center">
-  <img alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,github,vscode" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Focus On
 
-- 🎨 Passionate about **UI/UX Design & clean visual experiences**
-- 🌱 Currently learning **UI/UX and UCD (User-Centered Design) principles**  
-- 🧠 Interested in **mobile app design, interaction design & product thinking**
-- 💬 Ask me about **UI/UX or design tools**
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yuhansi-pathiraja-22b90127a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:yuhansidinethma@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
+```text
+UI Design        █████████░
+UX Research      ████████░░
+Wireframing      ████████░░
+Prototyping      ███████░░░
+Frontend Basics  ███████░░░
 
 ## 🛠️ Languages & Tools
 
