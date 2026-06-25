@@ -33,6 +33,7 @@
 ---
 
 ## 👤 About Me
+<img src="ABOUT ME.svg" width="700">
 
 - 🎨 Passionate about **UI/UX Design** & creating clean visual experiences.
 - 🌱 Currently learning **UI/UX Design, User-Centered Design (UCD), Software Development, and Artificial Intelligence**.
