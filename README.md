@@ -33,17 +33,15 @@
 ---
 
 ## 👤 About Me
-<img src="ABOUT ME.svg" width="700">
-
-- 🎨 Passionate about **UI/UX Design** & creating clean visual experiences.
-- 🌱 Currently learning **UI/UX Design, User-Centered Design (UCD), Software Development, and Artificial Intelligence**.
-- 💻 Interested in **Frontend Development**, **Mobile App Design**, and **Product Thinking**.
-- 🚀 Building real-world projects to strengthen both design and development skills.
-- 📚 Always exploring new tools, technologies, and design trends.
-
+ <img src="ABOUT ME.svg" width="1000">
 
 ## 🛠️ Languages & Tools
 
 | 🎨 **Design Tools** | 💻 **Frontend** | ⚙️ **Backend** | 🗄️ **Database / Services** | 🔧 **Other Languages** |
 |---------------------|----------------|----------------|-----------------------------|------------------------|
 | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> |
+<br>
+
+## 📈 Contribution Graph
+
+[![Yuhansi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuhanzee&theme=tokyo-night&hide_border=true&color=8B5CF6&line=A855F7&point=C084FC)](https://github.com/yuhanzee)
