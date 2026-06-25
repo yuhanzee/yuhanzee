@@ -19,11 +19,11 @@
 <p>
   <img src="https://img.shields.io/badge/🇱🇰%20Sri%20Lanka-18181B?style=flat-square"/>
 
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/yuhansi-pathiraja-22b90127a">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:yuhansidinethma@gmail.com">
     <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail"/>
   </a>
 </p>
