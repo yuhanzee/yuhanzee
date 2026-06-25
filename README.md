@@ -1,3 +1,44 @@
+<!-- HERO -->
+
+<h1 align="left">
+  Hi there! I'm
+</h1>
+
+<p align="left">
+  <img src="YUHANSI PATHIRAJA.svg" width="700">
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING%20UNDERGRADUATE-A855F7?style=for-the-badge&labelColor=2A163F&color=2A163F"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX%20DESIGN%20ENTHUSIAST-A855F7?style=for-the-badge&logo=figma&logoColor=F24E1E&color=2A163F"/>
+
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🇱🇰%20Sri%20Lanka-18181B?style=flat-square"/>
+
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail"/>
+  </a>
+</p>
+
+<br>
+
+---
+
+## 👤 About Me
+
+- 🎨 Passionate about **UI/UX Design** & creating clean visual experiences.
+- 🌱 Currently learning **UI/UX Design, User-Centered Design (UCD), Software Development, and Artificial Intelligence**.
+- 💻 Interested in **Frontend Development**, **Mobile App Design**, and **Product Thinking**.
+- 🚀 Building real-world projects to strengthen both design and development skills.
+- 📚 Always exploring new tools, technologies, and design trends.
 
 
 ## 🛠️ Languages & Tools
