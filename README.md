@@ -16,16 +16,18 @@
 
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/🇱🇰%20Sri%20Lanka-18181B?style=flat-square"/>
+<p align="left">
 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/yuhansi-pathiraja-22b90127a">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/yuhansi-pathiraja-22b90127a/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+</a>
 
-  <a href="mailto:yuhansidinethma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail"/>
-  </a>
+<a href="mailto:yuhansidinethma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+</a>
+
+<img src="https://img.shields.io/badge/Sri_Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=C084FC"/>
+
 </p>
 
 <br>
